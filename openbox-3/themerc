@@ -1,0 +1,66 @@
+# Window geometry
+padding.width: 10
+padding.height: 10
+window.client.padding.width: 0
+window.client.padding.height: 0
+border.width: 4
+window.handle.width: 0
+
+# Border Colors
+window.active.border.color: #376A78
+window.inactive.border.color: #333333
+menu.border.color: #376A78
+
+# Text Shadow
+window.active.label.text.font: shadow=n
+window.inactive.label.text.font: shadow=n
+menu.items.font: shadow=n
+menu.title.text.font: shadow=n
+
+# Window title justification
+window.label.text.justify: Center
+
+# menu
+menu.border.color: #222222
+menu.border.width: 10
+
+menu.title.bg: Solid Flat
+menu.title.bg.color: #222222
+
+menu.items.bg: Solid Flat
+menu.items.bg.color: #222222
+menu.items.text.color: #DDDDDD
+
+menu.items.active.bg: Solid Flat
+menu.items.active.bg.color: #376A78
+menu.items.text.color: #2222222
+
+# Active window
+window.active.title.bg: Solid Flat
+window.active.title.bg.color: #222222
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #DDDDDD
+
+window.active.button.unpressed.bg: Solid Flat
+window.active.button.unpressed.bg.color: #222222
+window.active.button.unpressed.image.color: #376A78
+
+window.active.button.hover.bg: Solid Flat
+window.active.button.hover.bg.color: #376A78
+window.active.button.hover.image.color: #222222
+
+# Inactive Window
+window.inactive.title.bg: Solid Flat
+window.inactive.title.bg.color: #222222
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #376A78
+
+window.inactive.button.unpressed.bg: Solid Flat
+window.inactive.button.unpressed.bg.color: #222222
+window.inactive.button.unpressed.image.color: #222222
+
+window.inactive.button.hover.bg: Solid Flat
+window.inactive.button.hover.bg.color: #376A78
+window.inactive.button.hover.image.color: #222222
